@@ -2,6 +2,20 @@
 
 Job Bay is the job platform with the target of simplifying recruiting and hiring process for the parties involved. With this application, employers, and potential employees could connect directly, efficiently cutting out the middleman. Moreover, with a real-time communication system integrated into this platform.
 
+## Features
+⚪ Allows recruiters to post for job vaccancies
+
+⚪ Allows Candidates to apply for the post
+
+⚪ Allows for the shortlisting of candidates
+
+⚪ Notification for various stages of application
+
+⚪ Real time chat with the candidates
+
+⚪ Events And Todos for Users
+
+
 ## Screenshots
 
 
