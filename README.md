@@ -1,70 +1,17 @@
-# Getting Started with Create React App
+# Job Bay
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Job Bay is the job platform with the target of simplifying recruiting and hiring process for the parties involved. With this application, employers, and potential employees could connect directly, efficiently cutting out the middleman. Moreover, with a real-time communication system integrated into this platform.
 
-## Available Scripts
+## Screenshots
 
-In the project directory, you can run:
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Screenshot 2024-03-06 113954](https://github.com/GisoreB/jobbay-react/assets/144854877/4c2cd4e2-e766-40c7-99da-651b25b22f57)
+![Screenshot 2024-03-06 120647](https://github.com/GisoreB/jobbay-react/assets/144854877/174e4fdf-fa69-4099-b271-4e29b26bc002)
+![Screenshot 2024-03-06 120610](https://github.com/GisoreB/jobbay-react/assets/144854877/6f247260-5914-4fb6-882a-a24f97ff5c99)
+![Screenshot 2024-03-06 120554](https://github.com/GisoreB/jobbay-react/assets/144854877/060bd27e-7cb9-4855-8c7a-94872b61ee95)
+![Screenshot 2024-03-06 120537](https://github.com/GisoreB/jobbay-react/assets/144854877/dbfc12d4-a876-4fc9-a33c-1d566267db2a)
+![Screenshot 2024-03-06 120514](https://github.com/GisoreB/jobbay-react/assets/144854877/44c5ef52-3bf6-4d9e-9342-408f437440a0)
+![Screenshot 2024-03-06 120459](https://github.com/GisoreB/jobbay-react/assets/144854877/74d0726b-c75a-42a1-9f68-970c665b1b06)
+![Screenshot 2024-03-06 120241](https://github.com/GisoreB/jobbay-react/assets/144854877/f4561c5e-8226-44cd-9696-ef88345b35f5)
+![Screenshot 2024-03-06 115759](https://github.com/GisoreB/jobbay-react/assets/144854877/d87e54e7-099c-497d-bb51-3108e6b203d6)
+![Screenshot 2024-03-06 115512](https://github.com/GisoreB/jobbay-react/assets/144854877/f2018f1b-585f-429c-8185-1da375481d9d)
